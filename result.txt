@@ -1,0 +1,3 @@
+sum is: 59.0
+mean is: 4.538461538461538
+maximum number is: 10.0
